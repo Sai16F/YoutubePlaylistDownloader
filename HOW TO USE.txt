@@ -1,0 +1,15 @@
+** Before anything you should Download an Install Python3 on your system:
+https://www.python.org/downloads/
+----------------------------------------------------------
+run the "install_requirements.exe" (Just for once not everytime) to install the following:
+** may be you need to run it again to let the pip variable environment set to path at the first once**
+1- install pip on your system (done)
+2- add pip to your environment variable path (done)
+3- install youtube-dl (by pip) (done) 
+----------------------------------------------------------
+Then, run the "YoutubePlaylistDownloader.exe"
+1- it will ask you to name the container folder which will contain your downloaded playlist (Required) type any name you want
+2- it will ask to past the youtube playlist link to start downloading it
+3- Press Enter to start Downloading...
+
+**it will store your downloaded data at the same level you run the file**
