@@ -16,6 +16,6 @@ https://www.python.org/downloads/
 **You may need to run "install_requirements.exe" file again if you encounter a problem so the system can save the path of the pip in the path of the system variables.**
 
 ## 2. Run the "YoutubePlaylistDownloader.exe"
-      1. it will ask you to name the container folder which will contain your downloaded playlist (Required) type any name you want
+      1. it will ask you to name the container folder which will contain your downloaded playlist (Required) type any name you want, Then Press (Enter)
       2. it will ask to past the youtube playlist link to start downloading it
-      3. Press Enter to start Downloading...
+      3. Press (Enter) to start Downloading...
