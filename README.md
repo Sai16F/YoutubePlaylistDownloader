@@ -4,7 +4,7 @@ Downloading Youtube Playlist using youtube-dl
 ## Watch How to Use on Youtube: https://youtu.be/9Hq4ncAy2pg
 
 # **How to use**:
-**Before anything you should Download an Install Python3 on your system:**
+**Before anything you should Download and Install Python3 on your system:**
 https://www.python.org/downloads/ 
 
 **it will store your downloaded data at the same level you run the file**
