@@ -1,7 +1,7 @@
 # YoutubePlaylistDownloader
 Downloading Youtube Playlist using youtube-dl
 
-# How to use:
+# **How to use**:
 **Before anything you should Download an Install Python3 on your system:**
 https://www.python.org/downloads/ - automatic!
 
