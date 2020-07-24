@@ -12,7 +12,7 @@ https://www.python.org/downloads/ - automatic!
       2. add pip to your environment variable path
       3. install youtube-dl (by pip)
 
-## 1. Run the "YoutubePlaylistDownloader.exe"
+## 2. Run the "YoutubePlaylistDownloader.exe"
       1. it will ask you to name the container folder which will contain your downloaded playlist (Required) type any name you want
       2. it will ask to past the youtube playlist link to start downloading it
       3. Press Enter to start Downloading...
