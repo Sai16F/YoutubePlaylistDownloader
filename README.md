@@ -8,7 +8,7 @@ https://www.python.org/downloads/
 **it will store your downloaded data at the same level you run the file**
 
 ## 1. Run the "install_requirements.exe" (Just for once not everytime) to install the following:
-## You may need to run this file again if you encounter a problem so the system can save the path of the pipe in the path of the system variables.
+   **You may need to run this file again if you encounter a problem so the system can save the path of the pipe in the path of the system variables.**
       1. install pip on your system
       2. add pip to your environment variable path
       3. install youtube-dl (by pip)
