@@ -11,7 +11,7 @@ https://www.python.org/downloads/
 
 ## 1. Run the "install_requirements.exe" (Just for once not everytime) to install the following:
       1. install pip on your system
-      2. add pip to your environment variable path
+      2. add pip to your System Environment Variable PATH
       3. install youtube-dl (by pip)
 **You may need to run "install_requirements.exe" file again if you encounter a problem so the system can save the path of the pip in the path of the system variables.**
 
