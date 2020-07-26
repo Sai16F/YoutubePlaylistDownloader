@@ -19,4 +19,4 @@ https://www.python.org/downloads/
       1. it will ask you to name the container folder which will contain your downloaded playlist (Required) type any name you want, Then Press (Enter)
       2. it will ask to past the youtube playlist link to start downloading it
       3. Press (Enter) to start Downloading...
-**When you run the "YoutubePlaylistDownloader.exe" it will store the download data the same level you run (./)**
+**When you run the "YoutubePlaylistDownloader.exe" it will store the download data in the named folder at the same level (./) (Next to it)**
